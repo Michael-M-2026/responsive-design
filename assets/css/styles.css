@@ -1,5 +1,26 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+.headline {
+	margin-top: 50px; 
+}
+
+.body {
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.date {
+	margin-top: 30px;
+	border-bottom: 4px black
+}
+.h1 {
+	font-size: 200px;
+}
+h2 {
+	font-family: 'Times New Roman', Times, serif;
+}
+h3 {
+	font-size: 100px;
+}
+p {
+	font-family: 'Times New Roman', Times, serif
 }
